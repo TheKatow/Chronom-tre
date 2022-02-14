@@ -1,0 +1,22 @@
+button{
+    border-radius: 15%;
+    background-color: bisque;
+    font-size: 15px;    
+}
+button:hover{
+    opacity: 0.6;
+
+}
+#time{
+    text-align: center;
+    height: 5vh;
+    margin-top: 6vh;
+    font-size: x-large;
+}
+.btn{
+    height: 3vh;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
